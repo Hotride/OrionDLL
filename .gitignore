@@ -1,0 +1,17 @@
+*.user
+*.obj
+*.o
+*.suo
+*.opensdf
+*.sdf
+*.aps
+*.rar
+*.txt
+/Makefile*
+/ipch
+/Release
+/Debug
+/Orion/Debug
+/Orion/Release
+/Orion/x64
+/x64
